@@ -1,5 +1,5 @@
 # AWS Python Scripts
-## Simple &amp; Helpful Python Scripts I use time to time with AWS
+## Simple &amp; Helpful Python Scripts to use with AWS
 
 ### Python Lambda function to find and copy AWS artifacts automatically when deploying - triggers on S3 bucket get files from AWS Pipeline
 File: copy_artifacts_from_one_bucket_to_multiple.py
